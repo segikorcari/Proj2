@@ -15,9 +15,4 @@ class Node {
     }
 }
 
-class Polynomial {
-    private Node head;
 
-    public Polynomial() {
-        this.head = null;
-    }
